@@ -1,7 +1,7 @@
 shiny:
   image:
     repository: cthiounn/modelisation-sir-seir-mh-ensae-2a
-    tag: "1.0.1"
+    tag: "main"
   ingress:
     enabled: true
-    hostname: modelisation-sir-ensae.lab.sspcloud.fr
+    hostname: modelisation-sir-ensae-2a.lab.sspcloud.fr
